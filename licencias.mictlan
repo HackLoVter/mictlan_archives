@@ -6,7 +6,7 @@
   "codes": [
     {
       "code": "MICT-DEMO-0001",
-      "status": "revoked",
+      "status": "available",
       "deviceId": "",
       "note": "usuario A"
     },
@@ -20,6 +20,11 @@
       "code": "MICT-DEMO-0003",
       "status": "revoked",
       "deviceId": "",
+      "note": "compartido / cancelado"
+    }{
+      "code": "MICT-DEMO-0004",
+      "status": "used",
+      "deviceId": "f20976d4f8eb6b8394456ea50a0f4801",
       "note": "compartido / cancelado"
     }
   ]
