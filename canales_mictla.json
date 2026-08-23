@@ -1,0 +1,35 @@
+{
+  "format": "sdrmictlatecutli.canales",
+  "version": 1,
+  "exportedAt": "2026-08-23T10:56:12-0600",
+  "indiceActual": 2,
+  "canales": [
+    {
+      "id": 1787504100065,
+      "nombre": "disital1",
+      "freq": 162.255,
+      "modo": "DIG",
+      "bw": 6250,
+      "proto": "NX48",
+      "scr": 1290
+    },
+    {
+      "id": 1787504122420,
+      "nombre": "Canal 2",
+      "freq": 160.255,
+      "modo": "DIG",
+      "bw": 12500,
+      "proto": "NX96",
+      "scr": 1290
+    },
+    {
+      "id": 1787504144316,
+      "nombre": "Canal 3",
+      "freq": 158.35,
+      "modo": "DIG",
+      "bw": 12500,
+      "proto": "NX96",
+      "scr": 0
+    }
+  ]
+}
