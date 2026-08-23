@@ -6,7 +6,7 @@
   "codes": [
     {
       "code": "MICT-DEMO-0001",
-      "status": "available",
+      "status": "revoked",
       "deviceId": "",
       "note": "usuario A"
     },
