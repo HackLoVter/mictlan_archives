@@ -1,0 +1,681 @@
+{
+  "format": "sdrmictlatecutli.canales.master",
+  "version": 1,
+  "exportedAt": "2026-09-17T19:21:16-0600",
+  "indiceActual": 39,
+  "listasExtra": [],
+  "canales": [
+    {
+      "id": 1788044774165,
+      "nombre": "RASTROJO",
+      "freq": 143.66,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 19717,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788046290606,
+      "nombre": "SIN NOMBRE CANAL",
+      "freq": 144.525,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 23456,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788046326790,
+      "nombre": "SULTEPEC",
+      "freq": 147.785,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 1982,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788046442579,
+      "nombre": "RM 1",
+      "freq": 153.425,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 24502,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788046506709,
+      "nombre": "Canal 12",
+      "freq": 153.9,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 2579,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788046562590,
+      "nombre": "ALMOLOYA",
+      "freq": 154,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 2579,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788046813174,
+      "nombre": "TEXCALTITLAN-VIEJO",
+      "freq": 154.9,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 3322,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788047175100,
+      "nombre": "RIO COATZA",
+      "freq": 155.415,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 10296,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789086074208,
+      "nombre": "🚔 DMR san Martin policía 2 🚓",
+      "freq": 156.3375,
+      "bw": 6250,
+      "proto": "NXDN96",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788047375619,
+      "nombre": "SIN NOMBRE CANAL 2",
+      "freq": 156.555,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 16253,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788047498817,
+      "nombre": "TEMASCALTEPEC",
+      "freq": 157.284375,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 12369,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788047659879,
+      "nombre": "ZACUALPA",
+      "freq": 157.453125,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 9827,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788047823830,
+      "nombre": "PARAISO",
+      "freq": 157.45625,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 19891,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788047904782,
+      "nombre": "LUVIANOS",
+      "freq": 157.49,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 2733,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788048089800,
+      "nombre": "TAURUS",
+      "freq": 157.5,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 15263,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788048274759,
+      "nombre": "ARCELIA",
+      "freq": 157.5225,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 2552,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788048394025,
+      "nombre": "VALLE DE BRAVO",
+      "freq": 157.56,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 14521,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788031413733,
+      "nombre": "CFE",
+      "freq": 157.725,
+      "bw": 12500,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788048470243,
+      "nombre": "DMR TEJUPILCO 1",
+      "freq": 159.1875,
+      "bw": 12500,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788026344403,
+      "nombre": "🚔 ESTATAL  🚓",
+      "freq": 159.2375,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788031505880,
+      "nombre": "🤡ROBA CAMBIOS 2 🤠",
+      "freq": 159.287,
+      "bw": 12500,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": false,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788027416082,
+      "nombre": "🥸ROBA-CAMBIOS 🤡",
+      "freq": 159.3,
+      "bw": 12500,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": false,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789076822526,
+      "nombre": "Canal 32",
+      "freq": 159.3243859670162,
+      "bw": 9607,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788025843763,
+      "nombre": "🚔 DMR san Martin policía 🚓",
+      "freq": 159.325,
+      "bw": 10000,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788048814684,
+      "nombre": "Misma clave TEJUPILCO",
+      "freq": 162.45625,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 17935,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788049197975,
+      "nombre": "TEJUPILCO VIEJA",
+      "freq": 167.45625,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 17935,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788049258608,
+      "nombre": "AMATEPEC",
+      "freq": 168.5,
+      "bw": 6260,
+      "proto": "NXDN48",
+      "scr": 1290,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788292023760,
+      "nombre": "ROBA CAMBIOS 3 🤡🤠",
+      "freq": 168.8925,
+      "bw": 12346,
+      "proto": "NXDN48",
+      "scr": 0,
+      "dsd": false,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788051901318,
+      "nombre": "DMR TEJUPILCO 2",
+      "freq": 169.238,
+      "bw": 12500,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788051991909,
+      "nombre": "ATLANTA",
+      "freq": 169.48,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 9276,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789088590428,
+      "nombre": "DMR san Martin 3",
+      "freq": 170.5,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1788052025935,
+      "nombre": "TEXCALTITLAN NUEVO",
+      "freq": 174.9,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 3322,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789089881916,
+      "nombre": "señal p25",
+      "freq": 424.14375,
+      "bw": 12500,
+      "proto": "NXDN48",
+      "scr": 0,
+      "dsd": false,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789090145789,
+      "nombre": "DMR  SAN MARTÍN 4 UHF",
+      "freq": 440.025,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789092609961,
+      "nombre": "DMR UHF ENCRIPTADO",
+      "freq": 440.1645,
+      "bw": 12500,
+      "proto": "NXDN48",
+      "scr": 0,
+      "dsd": false,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789092818700,
+      "nombre": "DMR UHFSANMARTIN2",
+      "freq": 440.6625,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 0,
+      "dsd": false,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789093050156,
+      "nombre": "DMR SAN MARTIN UHF 4",
+      "freq": 442.225,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789093444323,
+      "nombre": "DMR UHF SAB MARTIN 5",
+      "freq": 445.325,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789093562724,
+      "nombre": "DMR UHF SAN MARTIN 6",
+      "freq": 445.525,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789093991714,
+      "nombre": "DMR SAN MARTIN UHF9",
+      "freq": 445.5875,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789093660357,
+      "nombre": "DMR UHF SAN MARTIN 7",
+      "freq": 445.725,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789093718224,
+      "nombre": "DMR UHF SAN MARTIN 8",
+      "freq": 445.825,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789094019875,
+      "nombre": "DMR UHF SAN MARTIN 9",
+      "freq": 445.9,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789094471602,
+      "nombre": "DMR SAN MARTIN UHF FUERTE 11",
+      "freq": 447.525,
+      "bw": 12500,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789094406383,
+      "nombre": "DMR SAN AMRTIN UHF 10",
+      "freq": 447.5875,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789094277072,
+      "nombre": "DMR SAN MARTIN UHF 9",
+      "freq": 447.825,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789094777960,
+      "nombre": "DMR UHF SAN MARTIN 13",
+      "freq": 448.35625,
+      "bw": 12500,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789094561704,
+      "nombre": "DMR SAN MARTIN 12 FUERTE",
+      "freq": 448.39375,
+      "bw": 12500,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789094639889,
+      "nombre": "DMR SAN MARTIN 12",
+      "freq": 448.41875,
+      "bw": 12500,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789094842230,
+      "nombre": "DMR SAN MARTIN UHF14",
+      "freq": 448.5,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789094967998,
+      "nombre": "DMR UHF SAN MARTIN 15",
+      "freq": 448.95625,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789095046501,
+      "nombre": "DMR UHHF SAN MARTIN 16",
+      "freq": 449,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789096534239,
+      "nombre": "POLCIA CDMX",
+      "freq": 449.39375,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789096638132,
+      "nombre": "DMR POLCIA CDMX 2",
+      "freq": 449.41875,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789095146498,
+      "nombre": "DMR SAN MARTIN 17",
+      "freq": 449.45625,
+      "bw": 6250,
+      "proto": "DMR",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    },
+    {
+      "id": 1789095355332,
+      "nombre": "NXDN48 SAN MARTIN",
+      "freq": 460.3875,
+      "bw": 6250,
+      "proto": "NXDN48",
+      "scr": 0,
+      "dsd": true,
+      "listas": [
+        "general"
+      ]
+    }
+  ]
+}
